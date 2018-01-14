@@ -1,10 +1,12 @@
 # GH60-RevCHN
 
-Everything I need for my GH60.
+Everything I need for my GH60. Kudos to [dr_derivative](https://www.reddit.com/user/dr_derivative)
+on Reddit [for his help](https://www.reddit.com/r/MechanicalKeyboards/comments/7qbqos/gh60_azerty_iso_layout/dso0xau/).
 
 # Editing layout:
 
 Load ```layout/GH60_RevCHN_azerty_iso.json``` into http://kbfirmware.com/.
+Download .hex formatted firmware after you've applied your changes.
 
 # Flashing firmware:
 
